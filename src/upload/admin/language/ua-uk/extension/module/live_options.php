@@ -4,7 +4,7 @@
  *
  * The Live Options+ extension is for CMS Opencart 3.x.
  * It allows to display live total price of product and its options in accordance with the specified options
- * and quantity, also adds ability to use the equal sign as option prefix and some other features.
+ * and quantity, also adds ability to use the equal sign as option prefix and another features.
  *
  * @author        Andrii Burkatskyi aka underr underr.ua@gmail.com
  * @copyright     Copyright (c) 2019 Andrii Burkatskyi
