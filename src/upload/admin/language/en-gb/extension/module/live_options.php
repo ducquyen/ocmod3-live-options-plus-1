@@ -23,7 +23,7 @@ $_['error_permission'] = 'Warning: You do not have permission to modify Live Opt
 $_['error_fill'] = 'Empty fields was auto-filled, please check and save again!';
 // Live Options+ entry text
 $_['entry_tab_gen'] = 'General Settings';
-$_['entry_tab_vie'] = 'Conduct and Appearance';
+$_['entry_tab_opr'] = 'Operation Settings';
 $_['entry_tab_lng'] = 'Language Settings';
 $_['entry_tab_css'] = 'CSS styles';
 $_['entry_tab_spt'] = 'Support';
