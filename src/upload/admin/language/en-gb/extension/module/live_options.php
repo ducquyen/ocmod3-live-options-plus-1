@@ -27,15 +27,17 @@ $_['entry_tab_vie'] = 'Conduct and Appearance';
 $_['entry_tab_lng'] = 'Language Settings';
 $_['entry_tab_css'] = 'CSS styles';
 $_['entry_tab_spt'] = 'Support';
+//
 $_['entry_status'] = 'Status';
 $_['entry_prc_rat'] = 'Special option price';
-$_['entry_eql_sgn'] = 'Equal sign';
+$_['entry_eql_sig'] = 'Equal sign';
 //
-$_['entry_tot_qty'] = 'Calc total price by qty';
-$_['entry_opt_qty'] = 'Calc option price by qty';
+$_['entry_tot_prc'] = 'Product total price';
+$_['entry_tot_opt'] = 'Option total price';
 $_['entry_hid_pfx'] = 'Hide option prefixes';
+$_['entry_fade'] = 'Animation, ms';
+//
 $_['entry_text_free'] = 'Free';
-$_['entry_fade_duration'] = 'Animation, ms';
 //
 $_['entry_content_id'] = 'Content';
 $_['entry_option_id'] = 'Option';
@@ -46,13 +48,13 @@ $_['entry_special_id'] = 'Special/Discount';
 $_['entry_tax_id'] = 'ExTax';
 // Live Options+ help text
 $_['help_prc_rat'] = 'Allow to change option prices in accordance with discount/special prices';
-$_['help_eql_sgn'] = 'Allow to use an equal sign as product option prefix for the product options';
+$_['help_eql_sig'] = 'Allow to use an equal sign as product option prefix for the product options';
 //
-$_['help_tot_qty'] = 'Show the product totals in accordance with the specified quantity';
-$_['help_opt_qty'] = 'Show total option prices in accordance with the specified quantity';
-$_['help_hid_pfx'] = 'Hide prefixes and show total option prices (excl. checkboxes)';
-$_['help_text_free'] = 'Custom text for free of charge options';
-$_['help_fade_duration'] = 'Animation effect duration time in ms';
+$_['help_tot_prc'] = 'Show product totals in accordance with the specified quantity';
+$_['help_tot_opt'] = 'Show product option totals in accordance with the specified quantity';
+$_['help_hid_pfx'] = 'Hide product option prefixes and show their full prices (excl. checkboxes)';
+$_['help_text_free'] = 'Custom text for free of charge options. Leave empty if not needed';
+$_['help_fade'] = 'Animation effect duration time in ms';
 //
 $_['help_content_id'] = 'Main container #id';
 $_['help_option_id'] = '#Id mask for product option containers';
