@@ -6,15 +6,15 @@
  * It allows to display live total price of product and its options in accordance with the specified options
  * and quantity, also adds ability to use the equal sign as option prefix and another features.
  *
- * @author        Andrii Burkatskyi aka underr underr.ua@gmail.com
- * @copyright     Copyright (c) 2019 Andrii Burkatskyi
- * @license		  https://raw.githubusercontent.com/underr-ua/ocmod3-live-options-plus/master/EULA.txt End-User License Agreement
+ * @author      Andrii Burkatskyi aka underr underr.ua@gmail.com
+ * @copyright   Copyright (c) 2019 Andrii Burkatskyi
+ * @license     https://raw.githubusercontent.com/underr-ua/ocmod3-live-options-plus/master/EULA.txt End-User License Agreement
  *
- * @version       1.3
+ * @version     1.3
  *
- * @see           https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=36005
- * @see           https://underr.space/en/notes/projects/project-014.html
- * @see           https://github.com/underr-ua/ocmod3-live-options-plus
+ * @see         https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=36005
+ * @see         https://underr.space/en/notes/projects/project-014.html
+ * @see         https://github.com/underr-ua/ocmod3-live-options-plus
  */
 
 // Live Options+ heading
