@@ -29,12 +29,13 @@ $_['entry_tab_css'] = 'CSS styles';
 $_['entry_tab_spt'] = 'Support';
 //
 $_['entry_status'] = 'Status';
-$_['entry_prc_rat'] = 'Special option price';
-$_['entry_eql_sig'] = 'Equal sign';
+$_['entry_price_ratio'] = 'Special option price';
+$_['entry_equal_sign'] = 'Equal sign';
+$_['entry_log'] = 'Log';
 //
-$_['entry_tot_prc'] = 'Product total price';
-$_['entry_tot_opt'] = 'Option total price';
-$_['entry_hid_pfx'] = 'Hide option prefixes';
+$_['entry_product_total'] = 'Product total price';
+$_['entry_option_total'] = 'Option total price';
+$_['entry_hide_prefix'] = 'Hide option prefixes';
 $_['entry_fade'] = 'Animation, ms';
 //
 $_['entry_text_free'] = 'Free';
@@ -47,12 +48,13 @@ $_['entry_reward_id'] = 'Reward points';
 $_['entry_special_id'] = 'Special/Discount';
 $_['entry_tax_id'] = 'ExTax';
 // Live Options+ help text
-$_['help_prc_rat'] = 'Allow to change option prices in accordance with discount/special prices';
-$_['help_eql_sig'] = 'Allow to use an equal sign as product option prefix for the product options';
+$_['help_price_ratio'] = 'Allow to change option prices in accordance with discount/special prices';
+$_['help_equal_sign'] = 'Allow to use an equal sign as product option prefix for the product options';
+$_['help_log'] = 'Log some info to console';
 //
-$_['help_tot_prc'] = 'Show product totals in accordance with the specified quantity';
-$_['help_tot_opt'] = 'Show product option totals in accordance with the specified quantity';
-$_['help_hid_pfx'] = 'Hide product option prefixes and show their full prices (excl. checkboxes)';
+$_['help_product_total'] = 'Show product totals in accordance with the specified quantity';
+$_['help_option_total'] = 'Show product option totals in accordance with the specified quantity';
+$_['help_hide_prefix'] = 'Hide product option prefixes and show their full prices (excl. checkboxes)';
 $_['help_text_free'] = 'Custom text for free of charge options. Leave empty if not needed';
 $_['help_fade'] = 'Animation effect duration time in ms';
 //
