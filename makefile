@@ -8,7 +8,7 @@
 # @copyright    Copyright (c) 2019 Andrii Burkatskyi
 # @license		https://raw.githubusercontent.com/underr-ua/ocmod3-live-options-plus/master/EULA.txt End-User License Agreement
 #
-# @version      1.3
+# @version      1.4
 #
 # @see          https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=36005
 # @see          https://underr.space/en/notes/projects/project-014.html
